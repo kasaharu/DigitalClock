@@ -1,0 +1,16 @@
+body {
+    background-color : black;
+}
+p {
+    color : blue;
+}
+
+#clock {
+    position : absolute; // 縦方向中央揃え
+    left : auto;
+    top : 40%;
+    width : 90%;
+    text-align : center;
+}
+
+

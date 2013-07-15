@@ -1,0 +1,10 @@
+{
+  "name": "Digital Clock",
+  "description": "What time is it now?",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "kasaharu"
+  },
+  "default_locale": "en"
+}
+
